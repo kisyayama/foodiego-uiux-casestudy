@@ -11,8 +11,6 @@ FoodieGo adalah aplikasi mobile untuk menemukan dan mereservasi restoran terbaik
 
 ![FoodieGo Preview](preview.png)
 
-> Tambahkan screenshot desainmu di sini dengan cara drag & drop gambar ke editor README di GitHub
-
 ---
 
 ## Fitur Utama

@@ -22,26 +22,7 @@ Hi! I'm Kisya, a UI/UX designer with experience in designing mobile and web appl
 
 ---
 
-### 1. 🍽️ FoodieGo – Restaurant Discovery & Reservation App
-
-> Platform mobile untuk menemukan dan mereservasi restoran terbaik di sekitar pengguna.
-
-![FoodieGo Preview](preview.png)
-
-**✨ Key Features**
-- 🏠 Home – Rekomendasi restoran spesial & kategori makanan
-- 🔍 Explore – Pencarian dengan filter harga, rating & lokasi
-- 📅 Reservation – Date/time picker & simulasi pembayaran
-- 👤 Profile – Riwayat pesanan & restoran favorit
-- 🏪 Restaurant Detail – Info lengkap, ulasan & lokasi maps
-
-**🛠️ Tools:** Figma
-
-**🔗 [View Figma Prototype →](https://www.figma.com/design/RJ4DbbSz0nDsguNWzHjwzy/FoodieGo-Studycase?node-id=0-1&t=IP23lOGrPDSl0Yli-1)**
-
----
-
-### 2. 💼 GoKerja – Job Search & Application Tracking App
+### 1. 💼 GoKerja – Job Search & Application Tracking App
 
 > Aplikasi pencarian kerja dan pelacakan lamaran untuk mahasiswa tingkat akhir dan fresh graduate.
 
@@ -62,6 +43,26 @@ Hi! I'm Kisya, a UI/UX designer with experience in designing mobile and web appl
 **🛠️ Tools:** Figma, Miro
 
 **🔗 [View Figma Prototype →](https://www.figma.com/design/zwKG7Ol9TQhVgJAO5b9FmV/Go-Kerja?node-id=8-2&p=f)**
+** [view Miro](https://miro.com/app/board/uXjVJsyxsS4=/?share_link_id=332466090544)**
+
+---
+
+### 2. 🍽️ FoodieGo – Restaurant Discovery & Reservation App
+
+> Platform mobile untuk menemukan dan mereservasi restoran terbaik di sekitar pengguna.
+
+![FoodieGo Preview](preview.png)
+
+**✨ Key Features**
+- 🏠 Home – Rekomendasi restoran spesial & kategori makanan
+- 🔍 Explore – Pencarian dengan filter harga, rating & lokasi
+- 📅 Reservation – Date/time picker & simulasi pembayaran
+- 👤 Profile – Riwayat pesanan & restoran favorit
+- 🏪 Restaurant Detail – Info lengkap, ulasan & lokasi maps
+
+**🛠️ Tools:** Figma
+
+**🔗 [View Figma Prototype →](https://www.figma.com/design/RJ4DbbSz0nDsguNWzHjwzy/FoodieGo-Studycase?node-id=0-1&t=IP23lOGrPDSl0Yli-1)**
 
 ---
 

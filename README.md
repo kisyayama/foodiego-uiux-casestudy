@@ -26,7 +26,7 @@ Hi! I'm Kisya, a UI/UX designer with experience in designing mobile and web appl
 
 > Platform mobile untuk menemukan dan mereservasi restoran terbaik di sekitar pengguna.
 
-![FoodieGo Preview](foodiego-preview.png)
+![FoodieGo Preview](preview.png)
 
 **✨ Key Features**
 - 🏠 Home – Rekomendasi restoran spesial & kategori makanan

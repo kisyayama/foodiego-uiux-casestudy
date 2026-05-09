@@ -15,7 +15,7 @@ FoodieGo adalah aplikasi mobile untuk menemukan dan mereservasi restoran terbaik
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - **Beranda** – Rekomendasi restoran spesial, kategori makanan, dan restoran terdekat
 - **Jelajahi** – Pencarian restoran dengan filter harga, rating, dan lokasi
@@ -25,7 +25,7 @@ FoodieGo adalah aplikasi mobile untuk menemukan dan mereservasi restoran terbaik
 
 ---
 
-## 🎨 Design Highlights
+## Design Highlights
 
 - Sistem warna yang konsisten dengan brand identity merah–putih
 - Komponen UI yang reusable (card, bottom navigation, filter chips)
@@ -62,7 +62,7 @@ FoodieGo/
 
 ---
 
-## 👩‍🎨 Dibuat oleh
+## Dibuat oleh
 
 **Kisya Reinatana Yama**
 Mahasiswa Teknologi Informasi – Telkom University Jakarta

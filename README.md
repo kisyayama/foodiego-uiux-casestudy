@@ -42,8 +42,7 @@ Hi! I'm Kisya, a UI/UX designer with experience in designing mobile and web appl
 
 **🛠️ Tools:** Figma, Miro
 
-**🔗 [View Figma Prototype →](https://www.figma.com/design/zwKG7Ol9TQhVgJAO5b9FmV/Go-Kerja?node-id=8-2&p=f)**
-** [view Miro](https://miro.com/app/board/uXjVJsyxsS4=/?share_link_id=332466090544)**
+**🔗 [View Figma Prototype →](https://www.figma.com/design/zwKG7Ol9TQhVgJAO5b9FmV/Go-Kerja?node-id=8-2&p=f) [view Miro](https://miro.com/app/board/uXjVJsyxsS4=/?share_link_id=332466090544)**
 
 ---
 
